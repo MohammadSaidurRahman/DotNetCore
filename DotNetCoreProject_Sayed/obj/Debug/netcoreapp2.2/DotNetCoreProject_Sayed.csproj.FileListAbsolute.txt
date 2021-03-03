@@ -1,0 +1,217 @@
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\bin\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.deps.json
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\bin\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.runtimeconfig.json
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\bin\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.runtimeconfig.dev.json
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\bin\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.dll
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\bin\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.pdb
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\bin\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.Views.dll
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\bin\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.Views.pdb
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.csproj.CoreCompileInputs.cache
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.RazorAssemblyInfo.cache
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.RazorAssemblyInfo.cs
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.AssemblyInfoInputs.cache
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.AssemblyInfo.cs
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.TagHelpers.input.cache
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.TagHelpers.output.cache
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.RazorCoreGenerate.cache
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Booking\Delete.g.cshtml.cs
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Booking\Details.g.cshtml.cs
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Booking\Edit.g.cshtml.cs
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Booking\Index.g.cshtml.cs
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Customer\Create.g.cshtml.cs
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Customer\Delete.g.cshtml.cs
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Customer\Details.g.cshtml.cs
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Customer\Edit.g.cshtml.cs
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Customer\Index.g.cshtml.cs
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.RazorTargetAssemblyInfo.cache
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.RazorTargetAssemblyInfo.cs
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.Views.pdb
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.dll
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.pdb
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.csproj.CopyComplete
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Booking\Create.g.cshtml.cs
+C:\Users\idb_c#\Desktop\CoreProject_Sayed\1256943\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.csprojAssemblyReference.cache
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\bin\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.deps.json
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\bin\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.runtimeconfig.json
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\bin\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.runtimeconfig.dev.json
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\bin\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.dll
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\bin\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.pdb
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\bin\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.Views.dll
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\bin\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.Views.pdb
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.csproj.CoreCompileInputs.cache
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.RazorAssemblyInfo.cache
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.RazorAssemblyInfo.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.AssemblyInfoInputs.cache
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.AssemblyInfo.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.TagHelpers.input.cache
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.TagHelpers.output.cache
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.RazorCoreGenerate.cache
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Booking\Create.g.cshtml.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Booking\Delete.g.cshtml.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Booking\Details.g.cshtml.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Booking\Edit.g.cshtml.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Booking\Index.g.cshtml.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Customer\Create.g.cshtml.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Customer\Delete.g.cshtml.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Customer\Details.g.cshtml.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Customer\Edit.g.cshtml.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Customer\Index.g.cshtml.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.RazorTargetAssemblyInfo.cache
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.RazorTargetAssemblyInfo.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.Views.pdb
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.dll
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.pdb
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.csproj.CopyComplete
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Room\AddOrEdit.g.cshtml.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Room\Create.g.cshtml.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Room\Delete.g.cshtml.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Room\Details.g.cshtml.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Room\Index.g.cshtml.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Room\_ViewAll.g.cshtml.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\FoodItem\Create.g.cshtml.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\FoodItem\Delete.g.cshtml.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\FoodItem\Details.g.cshtml.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\FoodItem\Edit.g.cshtml.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\FoodItem\Index.g.cshtml.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Categories\CategoryWiseItems.g.cshtml.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Create.g.cshtml.cs
+C:\Users\idb_c#\Desktop\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Index.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\bin\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.deps.json
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\bin\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.runtimeconfig.json
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\bin\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.runtimeconfig.dev.json
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\bin\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.dll
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\bin\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.pdb
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\bin\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.Views.dll
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\bin\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.Views.pdb
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.csprojAssemblyReference.cache
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.csproj.CoreCompileInputs.cache
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.RazorAssemblyInfo.cache
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.RazorAssemblyInfo.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.AssemblyInfoInputs.cache
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.AssemblyInfo.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.TagHelpers.input.cache
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.TagHelpers.output.cache
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.RazorCoreGenerate.cache
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Booking\Create.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Booking\Delete.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Booking\Details.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Booking\Edit.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Booking\Index.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Categories\CategoryWiseItems.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Create.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Index.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Customer\Create.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Customer\Delete.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Customer\Details.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Customer\Edit.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Customer\Index.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\FoodItem\Create.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\FoodItem\Delete.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\FoodItem\Details.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\FoodItem\Edit.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\FoodItem\Index.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Room\AddOrEdit.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Room\Create.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Room\Delete.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Room\Details.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Room\Index.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Room\_ViewAll.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.RazorTargetAssemblyInfo.cache
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.RazorTargetAssemblyInfo.cs
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.Views.pdb
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.dll
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.pdb
+C:\Users\idb_c#\Desktop\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.csproj.CopyComplete
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\bin\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.deps.json
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\bin\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.runtimeconfig.json
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\bin\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.runtimeconfig.dev.json
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\bin\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.dll
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\bin\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.pdb
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\bin\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.Views.dll
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\bin\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.Views.pdb
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.csproj.CoreCompileInputs.cache
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.RazorAssemblyInfo.cache
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.RazorAssemblyInfo.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.AssemblyInfoInputs.cache
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.AssemblyInfo.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.TagHelpers.input.cache
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.TagHelpers.output.cache
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.RazorCoreGenerate.cache
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Administration\CreateRole.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditRole.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditUser.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditUsersInRole.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ListRoles.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ListUsers.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ManageUserClaims.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Booking\Create.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Booking\Delete.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Booking\Details.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Booking\Edit.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Booking\Index.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Customer\Create.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Customer\Delete.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Customer\Details.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Customer\Edit.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Customer\Index.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\FoodItem\Create.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\FoodItem\Delete.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\FoodItem\Details.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\FoodItem\Edit.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\FoodItem\Index.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Room\AddOrEdit.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Room\Create.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Room\Delete.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Room\Details.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Room\Index.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Room\_ViewAll.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Tourists\Create.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Tourists\Index.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\Tourists\TouristOrder.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.RazorTargetAssemblyInfo.cache
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.RazorTargetAssemblyInfo.cs
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.Views.pdb
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.dll
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.pdb
+G:\IDB_C#_R44_Sayed\pppp\1256943 - Copy\DotNetCoreProject_Sayed\DotNetCoreProject_Sayed\obj\Debug\netcoreapp2.2\DotNetCoreProject_Sayed.csproj.CopyComplete

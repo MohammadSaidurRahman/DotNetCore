@@ -1,0 +1,57 @@
+﻿@model IEnumerable<DotNetCoreProject_Sayed.Models.Room>
+
+    <div class="col-md-8 offset-md-2">
+
+        <h1 class="text-center"><i class="fas fa-comments-dollar text-success"></i> Room Details</h1>
+
+
+        <table class="table">
+            <thead class="thead-light">
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.RoomNumber)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.AreaName)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.BookingDate)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Cost)
+                    </th>
+                    <th>
+                        <a onclick="showInPopup('@Url.Action("AddOrEdit","Room",null,Context.Request.Scheme)','New Room')" class="btn btn-success text-white"><i class="fas fa-random"></i> New Room</a>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.RoomNumber)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.AreaName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.BookingDate)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Cost)
+                        </td>
+                        <td>
+                            <div>
+                                <a onclick="showInPopup('@Url.Action("AddOrEdit","Room",new {id=item.RoomId},Context.Request.Scheme)','Update Room')" class="btn btn-info text-white"><i class="fas fa-pencil-alt"></i> Edit</a>
+                                <form asp-action="Delete" asp-route-id="@item.RoomId" onsubmit="return jQueryAjaxDelete(this)" class="d-inline">
+                                    <input type="hidden" asp-for="@item.RoomId" />
+                                    <input type="submit" value="Delete" class="btn btn-danger" />
+                                </form>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>

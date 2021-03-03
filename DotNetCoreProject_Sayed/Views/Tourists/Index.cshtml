@@ -1,0 +1,105 @@
+﻿@model IEnumerable<DotNetCoreProject_Sayed.Models.Tourist>
+@{ ViewBag.Title = "Index"; }
+<div class="row">
+    @*<div class="Col-md-8" style="margin-top:4rem; margin-left:7rem;">
+            <div id="orders">
+            </div>
+        </div>*@
+    <div class="col-md-5">
+        <br /><br /><br />
+                    <div id="tourist" style="background-color:lightgoldenrodyellow">
+                        <h2 style="text-align:center;">Tourist Informations</h2>
+                        <p>
+                            <button type="button" class="btn btn-outline-secondary btn-lg" data-toggle="modal" data-target="#touristModal">Create New Tourist With Product</button>
+                        </p>
+                        @foreach (var item in Model)
+                        {
+                            <table class="table table-bordered table-hover table-striped" style="text-align:center;">
+                                <tr>
+                                    <th>Tourist Name</th>
+                                    <th>Action</th>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Name)
+                                    </td>
+                                    <td>
+                                        <button class="btn btn-info" onclick="getDetails(@item.Id)">Details</button>&nbsp;&nbsp;
+                                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                                    </td>
+                                </tr>
+                            </table>
+                        }
+                    </div>
+    </div>
+    <div class="Col-md-9" style="margin-top:5rem; margin-left:8rem; background-color:lightgoldenrodyellow">
+        <div id="orders">
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="touristModal" tabindex="-1" aria-labelledby="touristModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            @{ Html.RenderPartialAsync("Create", new DotNetCoreProject_Sayed.Models.Tourist()); }
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $("#tourist").height($(window).height() * .80);
+            $("#orders").height($(window).height() * .70);
+            if (isNaN(@TempData["id"]) == false) {
+                var link = '@Url.Action("TouristOrder", "Tourists", new { id = @TempData["id"] })';
+                $("#orders").load(link);
+            }
+            $('#touristModal').on('shown.bs.modal', function () {
+                $('#Name').trigger('focus');
+            });
+            $('#touristModal').on('hidden.bs.modal', function (event) {
+                $("input[type=text]").val("");
+                $("input[type=number]").val("");
+                $("input[type=datetime-local]").val("");
+                $('#sl').val('0');
+                $("div").each(function () {
+                    if (parseInt(this.id) > 0) {
+                        this.remove();
+                    }
+                })
+            });
+            $('#addModelButton').on('click', function () {
+                var present_sl = parseInt($('#sl').val());
+                var next_sl = parseInt(present_sl) + 1;
+                var next_item = '<div id="' + next_sl + '">' + $('#' + present_sl).html() + '</div>';
+                next_item = next_item.split('_' + present_sl.toString()).join('_' + next_sl.toString());
+                next_item = next_item.split('[' + present_sl.toString() + ']').join('[' + next_sl.toString() + ']');
+                $('#' + present_sl).after(next_item);
+                $('#sl').val(next_sl);
+            });
+            $('#orderModal').on('hidden.bs.modal', function (event) {
+                $("input[type=text]").val("");
+                $("input[type=number]").val("");
+                $("input[type=datetime-local]").val("");
+            });
+        });
+        function getDetails(e) {
+            var link = '@Url.Action("TouristOrder", "Tourists", new { id = "-1" })';
+            link = link.replace("-1", e);
+            $("#orders").load(link);
+        }
+        var loadImage = function (event) {
+            if (event.target.files && event.target.files[0]) {
+                var img = document.getElementById('orderImage');
+                img.src = URL.createObjectURL(event.target.files[0]);
+            }
+        }
+        var changeImage = function (obj, event) {
+            if (event.target.files && event.target.files[0]) {
+                console.log(obj.dataset.tag);
+                var img = document.getElementById(obj.dataset.tag);
+                img.src = URL.createObjectURL(event.target.files[0]);
+            }
+        }
+    </script>
+}
